@@ -142,8 +142,9 @@ uvicorn main:app --reload
 FastAPI automatically generates interactive documentation:
 
 * Swagger UI: http://127.0.0.1:8000/docs
-
-
+  
+The tracker is now live on Render. Feel free to try it out! 
+* https://patient-appointment-tracker-3mpe.onrender.com/docs
 ---
 
 ## Author
